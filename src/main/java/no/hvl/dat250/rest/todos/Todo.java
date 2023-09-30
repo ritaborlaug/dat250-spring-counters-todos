@@ -19,6 +19,7 @@ public class Todo {
     public Todo(String summary, String description) {
         this(null, summary, description);
     }
+
     public Long getId() {
         return id;
     }
