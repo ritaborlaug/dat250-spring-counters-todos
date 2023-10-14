@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Counter spring example.
  */
+
+
 @RestController
 public class CounterController {
 
